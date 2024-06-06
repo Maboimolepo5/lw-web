@@ -1,0 +1,195 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    color: aqua;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: center;
+    padding-top: 10px;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.wrapper h1{
+    width: 400px;
+    font-family: sans-serif;
+    text-align: center;
+    color: aqua;
+    font-size: 22px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.img-jacket{
+    width: 400px;
+    position: left;
+    top: -20px;
+    left: 870px;
+    border-radius: 25px;
+    padding: 8px;
+    float: left;
+}
+
+p{
+    width: 220px;
+    color: rgb(19, 90, 222);
+    margin: 2px;
+    padding: 8px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background: blue;
+    border: 2px solid blue;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.btn:focus{
+    outline: none;
+}
+.srch:focus{
+    outline: none;
+}
+
+.wrapper .cn{
+    width: 160px;
+    height: 40px;
+    background: blueviolet;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+.wrapper .cn a{
+    text-decoration: none;
+    color: #121212;
+    transition: .3s ease;
+}
+.cn:hover{
+    background-color: #fff;
+}
+.wrapper span{
+    color: blueviolet;
+    font-size: 60px;
+}
+
+.wrapper h2{
+    width: 400px;
+    font-family: sans-serif;
+    text-align: center;
+    color: aqua;
+    font-size: 22px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 8px;
+    margin-left: 20px;
+    padding-left: 20px;
+    position: relative;
+    float: right;
+}
+
+.img-jacket2{
+    width: 400px;
+    position: right;
+    left: 10%;
+    right: 0;
+    bottom: 20px;
+    border-radius: 25px;
+    padding: 8px;
+    float: right;
+    display: block;
+    margin: 0 auto;
+}
+
+.wrapper .cr{
+    width: 160px;
+    height: 40px;
+    background: blueviolet;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+    position: relative;
+    float: right;
+}
+.wrapper .cr a{
+    text-decoration: none;
+    color: #121212;
+    transition: .3s ease;
+}
+.cr:hover{
+    background-color: #fff;
+}
+
+.wrapper h3{
+    width: 400px;
+    font-family: sans-serif;
+    text-align: center;
+    color: aqua;
+    font-size: 22px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 8px;
+    margin-left: 20px;
+    padding-left: 20px;
+    position: relative;
+    float: left;
+}
+
+.img-jacket3{
+    width: 400px;
+    position: left;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+    border-radius: 25px;
+    padding: 8px;
+    float: left;
+    display: block;
+    margin: 0 auto;
+}
+
+.wrapper .cb{
+    width: 160px;
+    height: 40px;
+    background: blueviolet;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+    position: relative;
+    float: left;
+}
+.wrapper .cb a{
+    text-decoration: none;
+    color: #121212;
+    transition: .3s ease;
+}
+.cb:hover{
+    background-color: #fff;
+}
+
